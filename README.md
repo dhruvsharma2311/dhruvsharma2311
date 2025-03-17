@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0054-spiral-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0792-binary-search) |
 ## Bit Manipulation
