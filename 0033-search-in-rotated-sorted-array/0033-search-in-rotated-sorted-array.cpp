@@ -18,6 +18,7 @@ public:
                     l = mid + 1;
                 }
             }
+            // Right sorted hai toh
             else{
                 if(t>=a[mid] && t<=a[r]){
                     l = mid + 1;
