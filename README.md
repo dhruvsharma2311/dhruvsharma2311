@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
