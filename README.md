@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0014-longest-common-prefix) |
