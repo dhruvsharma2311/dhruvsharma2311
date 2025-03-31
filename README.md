@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1890-sum-of-beauty-of-all-substrings) |
