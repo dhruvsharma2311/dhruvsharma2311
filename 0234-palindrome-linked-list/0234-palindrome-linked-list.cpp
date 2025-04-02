@@ -30,18 +30,13 @@ public:
             fast = fast->next->next;
         }
 
-        ListNode* secondHalf = reverseList(slow);
+        ListNode* temp = reverseList(slow);
         ListNode* firstHalf = head;
-        ListNode* temp = secondHalf;
-
         while (temp) {
             if (firstHalf->val != temp->val) return false;
             firstHalf = firstHalf->next;
             temp = temp->next;
         }
-
-        reverseList(secondHalf);
-
         return true;
     }
 };
