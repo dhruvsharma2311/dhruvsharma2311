@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode *head){
+    void reverse(ListNode *head){
         ListNode *prev = NULL;
         ListNode *curr = head;
         ListNode *temp = head;
@@ -20,7 +20,7 @@ public:
             prev = curr;
             curr = temp;
         }
-        return prev;
+        head = prev;
     }
     ListNode* findKthNode(ListNode *head, int k){
         int count = 1;
@@ -45,11 +45,11 @@ public:
             }
             curr = kthNode->next;
             kthNode->next = NULL;
-            ListNode *reversedHead = reverse(temp);
+            reverse(temp);
             if(temp == head){          // only for first k group
-                head = reversedHead;   //should be reversedHead
+                head = kthNode;   //should be reversedHead
             } else {
-                prev->next = reversedHead; //should connect to reversedHead
+                prev->next = kthNode; //should connect to reversedHead
             }
             prev = temp;
             temp = curr;
