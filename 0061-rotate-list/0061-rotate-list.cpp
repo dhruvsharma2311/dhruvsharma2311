@@ -20,10 +20,11 @@ public:
             curr = curr->next;
             cnt++;
         }
-        if(k==0 || k%cnt == 0){
+        k = k % cnt;
+        if(k==0){
             return head;
         }
-        int pt = abs(cnt - k%cnt);
+        int pt = abs(cnt - k);
         int c = 1;
         ListNode *temp = head;
         while(c < pt){
