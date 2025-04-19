@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
