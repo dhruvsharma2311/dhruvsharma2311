@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0268-missing-number) |
 ## Sorting
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhruvsharma2311/dhruvsharma2311/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
