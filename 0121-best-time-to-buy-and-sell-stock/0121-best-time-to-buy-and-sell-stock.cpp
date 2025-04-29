@@ -9,7 +9,8 @@ public:
                 buy = a[i];
             }
             else{
-                ans = max(ans, a[i]-buy);
+                int profit = a[i]-buy;
+                ans = max(ans, profit);
             }
         }
         return ans;
